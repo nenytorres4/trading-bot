@@ -1,0 +1,76 @@
+{
+  "total_operaciones": 6,
+  "operaciones_ganadas": 5,
+  "operaciones_perdidas": 0,
+  "operaciones_breakeven": 1,
+  "ganancia_total": 0.7157925479788042,
+  "perdida_total": 0,
+  "operaciones_cerradas": [
+    {
+      "symbol": "FLUXUSDT",
+      "fecha_cierre": "2025-11-07 23:35:12",
+      "precio_apertura": 0.17628,
+      "precio_cierre": 0.19089,
+      "ganancia_porcentaje": 8.287950987066038,
+      "ganancia_usdt": 0.4558373042886321,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "TP_VOLUME_DOWN",
+      "razon_cierre": "Volume Regression"
+    },
+    {
+      "symbol": "FLUXUSDT",
+      "fecha_cierre": "2025-11-07 23:37:19",
+      "precio_apertura": 0.19169,
+      "precio_cierre": 0.19423,
+      "ganancia_porcentaje": 1.3250560801293831,
+      "ganancia_usdt": 0.07287808440711607,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "TP_VOLUME_DOWN",
+      "razon_cierre": "Volume Regression"
+    },
+    {
+      "symbol": "0GUSDT",
+      "fecha_cierre": "2025-11-08 08:43:27",
+      "precio_apertura": 1.6112,
+      "precio_cierre": 1.6242,
+      "ganancia_porcentaje": 0.8068520357497593,
+      "ganancia_usdt": 0.04437686196623676,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "TP_VOLUME_DOWN",
+      "razon_cierre": "Volume Regression"
+    },
+    {
+      "symbol": "0GUSDT",
+      "fecha_cierre": "2025-11-08 08:47:06",
+      "precio_apertura": 1.6266,
+      "precio_cierre": 1.652,
+      "ganancia_porcentaje": 1.5615394073527522,
+      "ganancia_usdt": 0.08588466740440137,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "TP_VOLUME_DOWN",
+      "razon_cierre": "Volume Regression"
+    },
+    {
+      "symbol": "ICPUSDT",
+      "fecha_cierre": "2025-11-08 11:42:41",
+      "precio_apertura": 8.906,
+      "precio_cierre": 8.998,
+      "ganancia_porcentaje": 1.0330114529530512,
+      "ganancia_usdt": 0.056815629912417814,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "TP_VOLUME_DOWN",
+      "razon_cierre": "Volume Regression"
+    },
+    {
+      "symbol": "ILVUSDT",
+      "fecha_cierre": "2025-11-08 12:00:37",
+      "precio_apertura": 12.53368182,
+      "precio_cierre": 12.608,
+      "ganancia_porcentaje": 0.592947715342598,
+      "ganancia_usdt": 0.03261212434384289,
+      "cantidad_usdt": 5.5,
+      "tipo_cierre": "PROTECCION_GANANCIAS",
+      "razon_cierre": "Protección Ganancias"
+    }
+  ]
+}
